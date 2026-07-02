@@ -1,9 +1,13 @@
 ## Hi there 👋
-
+<br>
 I'm Dana, a frontend and backend developer based in Russia.<br>
+<br>
 I make your websites and little apps for PC.<br>
+<br>
 If I see a nice idea or landing page, I'm eager to bring it to life.<br>
+<br>
 My main tech stack is HTML, CSS, JavaScript, and I'm learning Java, Python, and React. I'm really into learning, so I'm doing it every day!<br>
+<br>
 I live and breathe IT, so I want to learn as much as possible, and I work every day on improving and expanding my portfolio.<br>
 <br>
 Fun Facts:<br>
