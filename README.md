@@ -18,5 +18,7 @@ Fun Facts:<br>
 • I love complex tasks.<br>
 • My English is around the B2 level.<br>
 <br>
-https://dleggi.github.io/StarBucks-Landing/<br>
+Projects with only HTML and CSS:<br>
+•https://dleggi.github.io/StarBucks-Landing/<br>
+•https://dleggi.github.io/Small-Valorant-Landing/<br>
 
